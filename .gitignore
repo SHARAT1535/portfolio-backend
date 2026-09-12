@@ -1,0 +1,15 @@
+# Binaries
+server
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+
+# Environment variables (never commit real secrets!)
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
